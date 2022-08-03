@@ -1,0 +1,8 @@
+D:\kia prjc\tamrin\Double_Ended_Queue_try1_1401.05.12\Double_Ended_Queue_try1_1401.05.12\bin\Debug\Double_Ended_Queue_try1_1401.05.12.exe.config
+D:\kia prjc\tamrin\Double_Ended_Queue_try1_1401.05.12\Double_Ended_Queue_try1_1401.05.12\bin\Debug\Double_Ended_Queue_try1_1401.05.12.exe
+D:\kia prjc\tamrin\Double_Ended_Queue_try1_1401.05.12\Double_Ended_Queue_try1_1401.05.12\bin\Debug\Double_Ended_Queue_try1_1401.05.12.pdb
+D:\kia prjc\tamrin\Double_Ended_Queue_try1_1401.05.12\Double_Ended_Queue_try1_1401.05.12\obj\Debug\Double_Ended_Queue_try1_1401.05.12.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\Double_Ended_Queue_try1_1401.05.12\Double_Ended_Queue_try1_1401.05.12\obj\Debug\Double_Ended_Queue_try1_1401.05.12.csproj.SuggestedBindingRedirects.cache
+D:\kia prjc\tamrin\Double_Ended_Queue_try1_1401.05.12\Double_Ended_Queue_try1_1401.05.12\obj\Debug\Double_Ended_Queue_try1_1401.05.12.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\Double_Ended_Queue_try1_1401.05.12\Double_Ended_Queue_try1_1401.05.12\obj\Debug\Double_Ended_Queue_try1_1401.05.12.exe
+D:\kia prjc\tamrin\Double_Ended_Queue_try1_1401.05.12\Double_Ended_Queue_try1_1401.05.12\obj\Debug\Double_Ended_Queue_try1_1401.05.12.pdb
